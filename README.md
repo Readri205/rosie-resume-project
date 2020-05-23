@@ -10,10 +10,17 @@ Cheers!
 
 #### Languages Used
 
+##### 1. HTML5
+##### 2. BootStrap for CSS
+##### 3. CSS
+##### 4. Font Awesone Icons
+##### 5. Google Fonts
+
 #### Known Errors
 
 ###### 1. 
 
 #### Version Control
 
-##### V1.0: 
+##### V1.0: Initial Commit
+##### V1.2: Finished index page, add css, resume and contact pages
