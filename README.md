@@ -25,3 +25,4 @@ Cheers!
 ##### V1.0: Initial Commit.
 ##### V1.2: Finished index page, add css, resume and contact pages.
 ##### V1.3: Added home page content and icons.
+##### V1.4: Added resume details including icons and knowledge progress bars.
