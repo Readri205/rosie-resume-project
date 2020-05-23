@@ -1,7 +1,7 @@
 ## UCD Resume Website - Full Stack Development Course First Project
 
 
-[Link to Website](https://readri205.github.io/UCD-resume/)
+[Link to Website](https://readri205.github.io/rosie-resume-project/)
 
 
 Cheers!
@@ -22,5 +22,6 @@ Cheers!
 
 #### Version Control
 
-##### V1.0: Initial Commit
-##### V1.2: Finished index page, add css, resume and contact pages
+##### V1.0: Initial Commit.
+##### V1.2: Finished index page, add css, resume and contact pages.
+##### V1.3: Added home page content and icons.
