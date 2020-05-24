@@ -31,3 +31,4 @@ Cheers!
 ##### V1.7: Updated README.md file.
 ##### V1.8: Added contact details and form on contact page.
 ##### V1.9: Added reference links and cv link.
+##### V2.0: Amended spelling errors in cv download link after testing.
