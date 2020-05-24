@@ -27,3 +27,4 @@ Cheers!
 ##### V1.3: Added home page content and icons.
 ##### V1.4: Added resume details including icons and knowledge progress bars.
 ##### V1.5: Added page links for home resume and contact.
+##### V1.6: Added resume work history details and CSS styling.
