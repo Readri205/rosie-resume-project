@@ -29,3 +29,4 @@ Cheers!
 ##### V1.5: Added page links for home resume and contact.
 ##### V1.6: Added resume work history details and CSS styling.
 ##### V1.7: Updated README.md file.
+##### V1.8: Added contact details and form on contact page.
