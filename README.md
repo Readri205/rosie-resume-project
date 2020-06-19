@@ -42,3 +42,4 @@ Cheers!
 ##### V2.8: Moved the Map Function to maps js file.
 ##### V2.9: Amended menu items to accommodate 6 items including style updates.
 ##### V3.0: Added GitHub JS code.
+##### V3.1: Amended loader image for correct id.
