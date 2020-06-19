@@ -34,3 +34,4 @@ Cheers!
 ##### V2.0: Amended spelling errors in cv download link after testing.
 ##### V2.1: Added github 404 html pages github css page and loader and grey images.
 ##### V2.2: Added interests page.
+##### V2.3: Added Google Map API and scripts.
