@@ -36,3 +36,4 @@ Cheers!
 ##### V2.2: Added interests page.
 ##### V2.3: Added Google Map API and scripts.
 ##### V2.4: Added css style for Google Map.
+##### V2.5: Amends to map script.
