@@ -46,3 +46,4 @@ Cheers!
 ##### V3.2: Render user information from GitHub
 ##### V3.3: Updated github js file
 ##### V3.4: Updated for github html file adjustment
+##### V3.5: Amended to render repo information for users
