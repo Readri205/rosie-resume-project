@@ -35,3 +35,4 @@ Cheers!
 ##### V2.1: Added github 404 html pages github css page and loader and grey images.
 ##### V2.2: Added interests page.
 ##### V2.3: Added Google Map API and scripts.
+##### V2.4: Added css style for Google Map.
