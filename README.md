@@ -38,3 +38,4 @@ Cheers!
 ##### V2.4: Added css style for Google Map.
 ##### V2.5: Amends to map script.
 ##### V2.6: Added Map Init Function.
+##### V2.7: Amended the MasterClusterer script from CI rather than Google '4.0.1' js file.
