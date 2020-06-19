@@ -43,3 +43,4 @@ Cheers!
 ##### V2.9: Amended menu items to accommodate 6 items including style updates.
 ##### V3.0: Added GitHub JS code.
 ##### V3.1: Amended loader image for correct id.
+##### V3.2: Render user information from GitHub
