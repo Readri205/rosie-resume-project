@@ -44,3 +44,4 @@ Cheers!
 ##### V3.0: Added GitHub JS code.
 ##### V3.1: Amended loader image for correct id.
 ##### V3.2: Render user information from GitHub
+##### V3.3: Updated github js file
