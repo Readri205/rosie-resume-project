@@ -53,3 +53,4 @@ Cheers!
 ##### V3.9: Amends to menu bar format
 ##### V4.0: Update JS for EmailJS service
 ##### V4.1: Update for EmailJS Form send
+##### V4.2: New update for EmailJS Form TEST

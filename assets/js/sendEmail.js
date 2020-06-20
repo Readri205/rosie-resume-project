@@ -4,7 +4,7 @@ function sendMail(contactForm) {
         "from_email": contactForm.emailaddress.value,
         "project_request": contactForm.projectsummary.value
     })
-    then (
+    .then(
         function(response) {
             console.log("SUCCESS", response);
         },
@@ -12,4 +12,5 @@ function sendMail(contactForm) {
             console.log("FAILED", error);
         }
     );
-        return false;}
+    return false;  // To block from loading a new page
+}
