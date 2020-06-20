@@ -51,3 +51,4 @@ Cheers!
 ##### V3.7: Updated for GitHub API throttle time out message
 ##### V3.8: Updated for EmailJS API
 ##### V3.9: Amends to menu bar format
+##### V4.0: Update JS for EmailJS service
