@@ -49,3 +49,4 @@ Cheers!
 ##### V3.5: Amended to render repo information for users
 ##### V3.6: Updated for the repo detail reset to zero and octocat repo list on first view of page
 ##### V3.7: Updated for GitHub API throttle time out message
+##### V3.8: Updated for EmailJS API
